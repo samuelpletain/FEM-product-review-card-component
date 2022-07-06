@@ -140,6 +140,9 @@ body {
   background-color: $secondary;
   padding: 1rem;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .card {
